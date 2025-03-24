@@ -47,3 +47,11 @@ a:hover {
   opacity: 1;
   color: brown;
 }
+
+.container {
+  display: flex;
+  align-content: flex-end;
+}
+
+.social-links {
+}
